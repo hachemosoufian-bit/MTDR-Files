@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "files": [
+    {
+      "name": "test.txt",
+      "url": "https://raw.githubusercontent.com/hachemosoufian-bit/MTDR-Files/main/test.txt",
+      "sha256": "24f92ab579ff5f611970cdb802f2e56c2da1fbdb1ecfba31358613bfa7269851"
+    }
+  ]
+}
